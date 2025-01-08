@@ -1,0 +1,2 @@
+
+https://www.adidas.co.id/graphql?hash=1081972869&_filter_0={sku:{eq:IH5712},customer_group_id:{eq:0}}
